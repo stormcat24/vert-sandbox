@@ -1,0 +1,16 @@
+{
+
+  // Java verticle
+  "main":"example.vert.JavaVerticle",
+  //"main":"js_bench_html.js",
+
+  // In this example we also provide various other versions of the main verticle, you can uncomment this and
+  // play around:
+
+  // If your module is going to be registered in the Vert.x module registry you will also need the following
+  // mandatory fields
+  "description":"vert.x benchmark",
+  "licenses": [],
+  "author": "a.yamada"
+
+}
